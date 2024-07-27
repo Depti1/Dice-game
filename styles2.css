@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    
+    align-items: center;
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+.heading p{
+    background-color:rgb(85, 90, 90) ;
+    color: black;
+    display: inline;
+    font-size: 5rem;
+    padding: 2px;
+    margin-top: 10px;
+    margin-left: 35%;
+    border: 2px solid rgb(97, 92, 92);
+    border-radius: 2px;
+}
+.dice p{
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
